@@ -1,4 +1,4 @@
-# mangagmobile
+# MangaG Mobile Client
 
 A new Flutter project.
 
