@@ -4,8 +4,10 @@
   
 </center>
 
-A new Flutter project.
+Mobile Manga Client utilizing Dart & Flutter.
+
 ![Cute Phone](res/cute_iphone.png?raw=true "Cute Phone")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
