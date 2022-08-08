@@ -1,12 +1,15 @@
-<center>
   
 # Manga G Mobile Client
   
-</center>
+
 
 Mobile Manga Client utilizing Dart & Flutter.
 
+<center>
+  
 ![Cute Phone](res/cute_iphone.png?raw=true "Cute Phone")
+
+</center>
 
 ## Getting Started
 
