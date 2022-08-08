@@ -1,7 +1,7 @@
 # MangaG Mobile Client
 
 A new Flutter project.
-![Alt text](res/cute_phone.png?raw=true "Cute Phone")
+![Cute Phone](res/cute_iphone.png?raw=true "Cute Phone")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
