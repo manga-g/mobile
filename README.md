@@ -1,4 +1,8 @@
+<center>
+  
 # Manga G Mobile Client
+  
+</center>
 
 A new Flutter project.
 ![Cute Phone](res/cute_iphone.png?raw=true "Cute Phone")
