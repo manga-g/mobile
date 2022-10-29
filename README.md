@@ -5,10 +5,11 @@
 
 Mobile Manga Client utilizing Dart & Flutter.
 
-<div align="center>
+<div align="center">
   
 ![Cute Phone](res/cute_iphone.png?raw=true "Cute Phone")
 
+                                                       
 </div>
 
 ## Getting Started
